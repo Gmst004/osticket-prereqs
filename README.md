@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/Gmst004/osticket-prereqs/assets/155221840/b0783417-5b48-4784-aeeb-73503323e353
+<img src="![Activedir](https://github.com/Gmst004/azure-network-protocols/assets/155221840/085f24ff-2fe5-408a-bb17-5b941334e7e8)
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
